@@ -26,3 +26,11 @@ similarly if correct answer is fizzbuzz and user pressed pass, 2 points will be 
 # UX
 
 Feel free to do experiments
+
+# Concepts to be learned
+
+- MVVM
+- Room DB
+- Unit testing
+- Fragment and Fragment Navigation
+
