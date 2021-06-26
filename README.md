@@ -39,6 +39,7 @@ Feel free to do experiments
 
 # Concepts to be learned
 
+- Kotlin
 - MVVM
 - Live Data
 - Room DB
