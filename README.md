@@ -33,6 +33,8 @@ similarly if correct answer is fizzbuzz and user pressed pass, 2 points will be 
 
 # UX
 
+<img src="https://github.com/Praxinow/android-fizzbuzz/blob/master/ScreenShots/GameScreen.png"/> <img src="https://github.com/Praxinow/android-fizzbuzz/blob/master/ScreenShots/HighestScore.png"/>
+
 Feel free to do experiments
 
 # Concepts to be learned
