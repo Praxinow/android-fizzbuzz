@@ -13,14 +13,22 @@ Screen will have:
 4. A scoreboard.
 
 score calculation:
-fizz : 5 points
-buzz : 5 points
-fizzbuzz : 10 points
-pass : 2 points
 
-wrong answer score: what answer you'll give as wrong, it's positive score will be deducted from final score
-for example:
-if correct answer was fizz, but user answered as fizzbuzz, 10 points will be deducted.
+Correct Answer:
+
+1. fizz : 5 points
+2. buzz : 5 points
+3. fizzbuzz : 10 points
+4. pass : 2 points
+
+Wrong Answer:
+<BR/>
+what answer you'll give as wrong, it's positive score will be deducted from final score 
+<BR/>
+for example: 
+<BR/>
+if correct answer was fizz, but user answered as fizzbuzz, 10 points will be deducted. 
+<BR/>
 similarly if correct answer is fizzbuzz and user pressed pass, 2 points will be deducted.
 
 # UX
