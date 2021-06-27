@@ -61,7 +61,33 @@ Feel free to do experiments
 # Week - 4
 - Proguarding
 
+# Helpful Links
 
+Project Architecture Reference :
+- https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html [Must]
+- https://jeroenmols.com/blog/2019/03/06/modularizationwhy/ [Must]
+- https://proandroiddev.com/android-components-architecture-in-a-modular-word-7414a0631969 [Must]
+- https://proandroiddev.com/how-to-implement-a-clean-architecture-on-android-2e5e8c8e81fe
+- https://www.youtube.com/watch?v=Sy6ZdgqrQp0
+
+MVVM  :
+- https://proandroiddev.com/our-way-to-mvvmi-and-mistakes-we-made-when-implementing-mvvm-5f5448b5ad50 [MUST]
+- Naming conventional Reference] https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md [Must]
+- [Theme conventional  Reference] https://material.io/components/
+- https://medium.com/androiddevelopers/android-styling-common-theme-attributes-8f7c50c9eaba [Must]
+
+ Dagger : 
+- https://proandroiddev.com/modularization-in-android-architecture-point-of-view-from-a-to-z-part-ii-8baea5b2e4fd [Must]
+
+
+Deeplink : 
+- https://github.com/airbnb/DeepLinkDispatch
+
+Kotlin  :
+- https://medium.com/@appmattus/effective-kotlin-31215a6cf847
+
+coroutine :
+- https://link.medium.com/vQmK0rv2v3
 
 # Credits
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
