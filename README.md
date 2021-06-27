@@ -39,12 +39,28 @@ Feel free to do experiments
 
 # Concepts to be learned
 
+# Week - 1
 - Kotlin
 - MVVM
 - Live Data
 - Room DB
-- Unit testing
 - Fragment and Fragment Navigation
+- Coroutine
+- Dagger
+
+# Week - 2
+- Leak Canary and Framerate -> Memory Leak
+- App Launch and frame drop -> Performance Matrix
+- ANR and Crash Rate -> Android Vitals
+- Benchmarking -> Jetpack/Firebase
+
+# Week - 3
+- Unit testing
+- Espresso
+
+# Week - 4
+- Proguarding
+
 
 
 # Credits
